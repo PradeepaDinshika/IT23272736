@@ -100,18 +100,7 @@ npx playwright show-report
 
 ---
 
-## 🧪 Writing Tests (Example)
 
-```ts
-import { test, expect } from '@playwright/test';
-
-test('homepage title test', async ({ page }) => {
-  await page.goto('https://example.com');
-  await expect(page).toHaveTitle(/Example/);
-});
-```
-
----
 
 ## 🚫 Ignored Files
 
@@ -124,17 +113,7 @@ The following files are ignored using `.gitignore`:
 
 ---
 
-## 🤝 Contribution
 
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-
----
 
 ## 👩‍💻 Author
 
