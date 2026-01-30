@@ -138,7 +138,8 @@ Contributions are welcome!
 
 ## 👩‍💻 Author
 
-**Your Name**
+W.P.D.De Silva
+IT23272736
 Software QA / Playwright Learner
 
 ---
