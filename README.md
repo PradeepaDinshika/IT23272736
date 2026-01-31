@@ -50,8 +50,8 @@ git --version
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone [https://github.com/PradeepaDinshika/IT23272736.git]
+cd IT23272736
 ```
 
 ### 2️⃣ Install Dependencies
